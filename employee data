@@ -1,0 +1,8 @@
+name=input("enter name ")
+employee_id = int(input("enter employee_id"))
+commession_rate = float(input("enter commession_rate "))
+shift=input("enter shift")
+if shift =="morning":
+    print("morning shift")
+else:
+    print("evening shift")
